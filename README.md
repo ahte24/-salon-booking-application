@@ -1,6 +1,4 @@
-To document the API endpoints, request/response formats, and data models using Postman, follow these steps:
-
-### 1. API Endpoints:
+## 1. API Endpoints:
 
 #### User Endpoints:
 - **POST /signup**
