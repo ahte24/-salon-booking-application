@@ -1,4 +1,4 @@
-# Comprehensive Application Documentation
+# Salon management 
 
 ## Application Overview
 
